@@ -1,3 +1,29 @@
+# MoneyPrinterTurbo
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Generate HD short videos from a topic or keyword with an automated AI workflow.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+利用 AI 大模型与自动化工作流，根据主题或关键词一键生成高清短视频。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 # MoneyPrinterTurbo 💸
